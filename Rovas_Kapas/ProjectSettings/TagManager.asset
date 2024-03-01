@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pinecone
+  - Ground
+  - Coin
+  - Letter
+  - Word
   layers:
   - Default
   - TransparentFX
@@ -38,6 +43,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2137081933
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2799071443
+    locked: 0
+  - name: UI
+    uniqueID: 1572852823
     locked: 0
